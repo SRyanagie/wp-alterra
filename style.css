@@ -12,11 +12,6 @@ position: fixed;
 margin: 40px 100px;
 display: flex;
 }
-a
-{
-  text-decoration: none;
-  display: block;
-}
 ul
 {
   margin: 0;
@@ -31,4 +26,5 @@ margin: 0 10px;
 li a
 {
   color: #FCF8E8;
+  text-decoration: none;
 }
